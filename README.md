@@ -6,7 +6,7 @@ My name is Abieshek and I am a Software Developer from Atlanta, GA. I graduated 
 ⚡ Tech Stack
 ![](https://icons8.com/icon/2572/java)
 
-🌱 I’m currently learning how to make cool animations and style websites in Angular. Check out my CandidateWebsite to see some of my progress/examples.
+🌱 I’m currently learning how to make cool animations and style websites in Angular and working on improving my understanding and skills with Algorithms. Check out my CandidateWebsite that I am currently working on!
 
 📫 How to reach me: abieshek.subramaniam@gmail.com or +1 (302) 367 3479 or https://www.linkedin.com/in/abiesheksubramaniam/.
 
