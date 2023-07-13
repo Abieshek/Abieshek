@@ -4,9 +4,18 @@ My name is Abieshek and I am a Software Developer from Atlanta, GA. I graduated 
 🔭 I have experience with Java enterprise applications in the Spring Framework and using ORMs, and REST APIs to connect with the frontend and backend. Check out Soil2Plate related projects in my repos! I have experience developing Java domain classes based on business requirements, implementing Spring Data (JPA, JDBC, and Hibernate) to connect Java objects to SQL backend data, implementing a service layer to handle business logic, creating a REST controller with REST APIs to allow frontend frameworks to interface with Java and therby access/modify database instances and creating Angular frontend applications that connect to the REST APIs to perform functionalities like logging in with user data, shopping cart functions (add, remove, delete cart data in backend).
 
 ⚡ Tech Stack
-![](https://icons8.com/icon/2572/java)
+Java
+Spring
+Angular
+JavaScript
+TypeScript
+HTML
+CSS
+SQL
+AWS
+C/C++
 
-🌱 I’m currently learning how to make cool animations and style websites in Angular and working on improving my understanding and skills with Algorithms. Check out my CandidateWebsite that I am currently working on!
+🌱 I’m currently learning how to make cool animations and style websites in Angular and working on improving my understanding and skills with Algorithms.
 
 📫 How to reach me: abieshek.subramaniam@gmail.com or +1 (302) 367 3479 or https://www.linkedin.com/in/abiesheksubramaniam/.
 
